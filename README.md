@@ -26,3 +26,10 @@ conflict resolution.
 ## Tools Used
 - Git
 - GitHub
+
+## Collaborator Details
+Name: Mahesh
+Roll No: 23PA1A05L8
+Branch: CSE
+College: Vishnu Institute of Technology, Bhimavaram
+
